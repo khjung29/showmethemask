@@ -4,7 +4,7 @@
       "title" : "마스크조회",
       "fbNativeInterval" : "5",
       "fbNativeReload" : "true",
-      "notiOn" : "false",
+      "notiOn" : "true",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
       "notiPositiveText" : "확인",
