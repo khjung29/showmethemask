@@ -1,0 +1,28 @@
+{ 
+  "channels" : [
+    {
+      "title" : "마스크조회",
+      "fbNativeInterval" : "5",
+      "fbNativeReload" : "true",
+      "notiOn" : "false",
+      "notiTitle" : "공지",
+      "notiMsg" : "감사합니다",
+      "notiPositiveText" : "확인",
+      "notiNegativeText" : "취소",
+      "type" : "0",
+      "typecnt" : "0",
+      "typenames" : [""],
+      "mainUrl" : "https://8oi9s0nnth.apigw.ntruss.com/corona19-masks/v1/",
+      "url" : "http://m.post.naver.com/my/series/detail/",
+      "searchUrl" : "http://m.post.naver.com/search/authorPost/",
+      "postId" : "마스크조회",
+      "memberNo" : "3669297",
+      "seriesNo" : "472832",
+      "programs" : "S01_V0000305532",
+      "sort" : "new",
+      "limit" : 15,
+      "itemList" : [],
+      "areaList" : []
+    }    
+  ]
+}
