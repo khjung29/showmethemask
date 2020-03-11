@@ -5,7 +5,7 @@
       "fbNativeInterval" : "5",
       "fbNativeReload" : "true",
       "baseNoti" :"3월15일까지는 시범 기간이므로\n데이터가 정확하지 않을 수 있습니다.\n\n제공되는 정보는 실제 마스크재고와 5분 이상 차이가 있습니다.\n\n마스크 재고현황은 4단계로 지도에 표시됩니다.",
-      "notiOn" : "true",
+      "notiOn" : "false",
       "notiTitle" : "공지",
       "notiMsg" : "감사합니다",
       "notiPositiveText" : "확인",
